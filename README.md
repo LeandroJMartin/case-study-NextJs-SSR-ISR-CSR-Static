@@ -1,3 +1,5 @@
+A ideia principal é ver o comportamento de cada página de acordo com o conteúdo gerado, seja estatico, via API ou sendo gerado pelo cliente ou pelo servidor.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
